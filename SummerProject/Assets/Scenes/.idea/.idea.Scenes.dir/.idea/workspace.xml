@@ -12,11 +12,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ScriptOne.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConventionsAndSyntax.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/ScriptOne.cs" />
       <option value="$PROJECT_DIR$/ScriptTwo.cs" />
+      <option value="$PROJECT_DIR$/ConventionsAndSyntax.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tVEzgkBF62ErUaJbfq6FWDKhkX" />
@@ -40,7 +42,8 @@
       <option name="presentableId" value="Default" />
       <updated>1622846128834</updated>
       <workItem from="1622846170824" duration="1521000" />
-      <workItem from="1622857368606" duration="353000" />
+      <workItem from="1622857368606" duration="400000" />
+      <workItem from="1622939172422" duration="161000" />
     </task>
     <servers />
   </component>
