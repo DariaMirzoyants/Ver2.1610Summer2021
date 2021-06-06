@@ -19,6 +19,7 @@
       <option value="$PROJECT_DIR$/ScriptOne.cs" />
       <option value="$PROJECT_DIR$/ScriptTwo.cs" />
       <option value="$PROJECT_DIR$/ConventionsAndSyntax.cs" />
+      <option value="$PROJECT_DIR$/MainPlayer.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tVEzgkBF62ErUaJbfq6FWDKhkX" />
@@ -44,6 +45,7 @@
       <workItem from="1622846170824" duration="1521000" />
       <workItem from="1622857368606" duration="400000" />
       <workItem from="1622939172422" duration="210000" />
+      <workItem from="1622939854676" duration="720000" />
     </task>
     <servers />
   </component>
