@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43a542bb-3a61-4eaa-a7d1-b5f9ce688a89" name="Default Changelist" comment="" />
+    <list default="true" id="761bb6c3-3dde-4281-b21e-494718d4e9da" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/SummerProject/Assets/Scenes/ScriptOne.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Variables.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/SummerProject/Assets/Scenes/ScriptOne.cs" />
+      <option value="$PROJECT_DIR$/Variables.cs" />
     </changedPaths>
   </component>
-  <component name="ProjectId" id="1tVDXqFcnsI5oYbQkaxkIJ5eLT5" />
+  <component name="ProjectId" id="1tvE0tN22utrKR97RbkIR907GAD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,20 +33,20 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="43a542bb-3a61-4eaa-a7d1-b5f9ce688a89" name="Default Changelist" comment="" />
-      <created>1622845420720</created>
+      <changelist id="761bb6c3-3dde-4281-b21e-494718d4e9da" name="Default Changelist" comment="" />
+      <created>1623640943127</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1622845420720</updated>
-      <workItem from="1622845437178" duration="468000" />
-      <workItem from="1623639179360" duration="1000" />
+      <updated>1623640943127</updated>
+      <workItem from="1623640946187" duration="863000" />
+      <workItem from="1623641878187" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
