@@ -20,6 +20,7 @@
       <option value="$PROJECT_DIR$/Conditionals1.cs" />
       <option value="$PROJECT_DIR$/Conditionals2.cs" />
       <option value="$PROJECT_DIR$/Switches1.cs" />
+      <option value="$PROJECT_DIR$/Switches2.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1u9YxUOOOMRRx5yoXZ7JXAWHSQG" />
@@ -46,6 +47,7 @@
       <workItem from="1624079763184" duration="185000" />
       <workItem from="1624080132025" duration="99000" />
       <workItem from="1624080384082" duration="197000" />
+      <workItem from="1624080892891" duration="358000" />
     </task>
     <servers />
   </component>
