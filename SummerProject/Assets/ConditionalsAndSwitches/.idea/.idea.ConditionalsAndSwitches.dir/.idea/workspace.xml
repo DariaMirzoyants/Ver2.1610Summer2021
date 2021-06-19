@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Switches1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Conditionals1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Conditionals2.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -18,6 +19,7 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Conditionals1.cs" />
       <option value="$PROJECT_DIR$/Conditionals2.cs" />
+      <option value="$PROJECT_DIR$/Switches1.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1u9YxUOOOMRRx5yoXZ7JXAWHSQG" />
@@ -43,6 +45,7 @@
       <workItem from="1624079544234" duration="2000" />
       <workItem from="1624079763184" duration="185000" />
       <workItem from="1624080132025" duration="99000" />
+      <workItem from="1624080384082" duration="197000" />
     </task>
     <servers />
   </component>
