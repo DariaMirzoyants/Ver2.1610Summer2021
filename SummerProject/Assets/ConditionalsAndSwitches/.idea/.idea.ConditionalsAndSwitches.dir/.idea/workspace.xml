@@ -12,10 +12,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Conditionals1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Conditionals2.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Conditionals1.cs" />
+      <option value="$PROJECT_DIR$/Conditionals2.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1u9YxUOOOMRRx5yoXZ7JXAWHSQG" />
@@ -40,13 +42,14 @@
       <updated>1624079532829</updated>
       <workItem from="1624079544234" duration="2000" />
       <workItem from="1624079763184" duration="185000" />
+      <workItem from="1624080132025" duration="99000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
