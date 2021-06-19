@@ -1,11 +1,9 @@
 using System.Collections;
 void Update()
-
-
-    using UnityEngine;
+using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
-{
+
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.R))
