@@ -18,6 +18,7 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/WhileLoops.cs" />
       <option value="$PROJECT_DIR$/ForLoopsWithArrays.cs" />
+      <option value="$PROJECT_DIR$/ForeachLoopsWithArrays.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uQVNMVr3Q9dpNJVMK1PSpwnMfY" />
@@ -43,6 +44,7 @@
       <workItem from="1624597787665" duration="128000" />
       <workItem from="1624598159612" duration="29000" />
       <workItem from="1624599429547" duration="240000" />
+      <workItem from="1624599897166" duration="164000" />
     </task>
     <servers />
   </component>
