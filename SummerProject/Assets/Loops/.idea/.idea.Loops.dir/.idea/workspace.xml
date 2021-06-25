@@ -11,11 +11,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ForLoopsWithArrays.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WhileLoops.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/WhileLoops.cs" />
+      <option value="$PROJECT_DIR$/ForLoopsWithArrays.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uQVNMVr3Q9dpNJVMK1PSpwnMfY" />
@@ -39,13 +41,15 @@
       <option name="presentableId" value="Default" />
       <updated>1624597768657</updated>
       <workItem from="1624597787665" duration="128000" />
+      <workItem from="1624598159612" duration="29000" />
+      <workItem from="1624599429547" duration="240000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
