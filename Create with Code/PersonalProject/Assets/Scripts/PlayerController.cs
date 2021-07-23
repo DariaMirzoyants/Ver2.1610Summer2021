@@ -32,4 +32,27 @@ public class PlayerController : MonoBehaviour
         horizontalInput = Input.GetAxis("Horizontal");
         transform.Translate(Vector3.right * horizontalInput * Time.deltaTime * speed);
     }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("Player has collided with enemy.");
+        }
+
+        if (collision.gameObject.CompareTag("Obstacle"))
+        {
+            Debug.Log("Player has collided with obstacle");
+        }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("PowerUp"))
+        {
+            Destroy(other.gameObject);
+            Debug.Log("PowerUp");
+        }
+    }
+
 }

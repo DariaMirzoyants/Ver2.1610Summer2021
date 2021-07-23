@@ -16,9 +16,9 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/SpawnManagerX.cs" />
       <option value="$PROJECT_DIR$/PlayerControllerX.cs" />
       <option value="$PROJECT_DIR$/EnemyX.cs" />
+      <option value="$PROJECT_DIR$/SpawnManagerX.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vc4oXUIRBniXtGwMBZTFS1fn1C" />
@@ -41,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626848229087</updated>
-      <workItem from="1626848251292" duration="3743000" />
+      <workItem from="1626848251292" duration="3952000" />
     </task>
     <servers />
   </component>
