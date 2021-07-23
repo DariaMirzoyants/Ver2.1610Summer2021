@@ -17,6 +17,7 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/PlayerController.cs" />
       <option value="$PROJECT_DIR$/MoveDown.cs" />
+      <option value="$PROJECT_DIR$/SpawnManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vLKOgw2PS3vkrV5w9860sE6ugf" />
@@ -41,6 +42,7 @@
       <updated>1626335907640</updated>
       <workItem from="1626335924992" duration="2426000" />
       <workItem from="1626984530586" duration="2857000" />
+      <workItem from="1627000441195" duration="1536000" />
     </task>
     <servers />
   </component>

@@ -5,23 +5,21 @@ using UnityEngine;
 public class SpawnManager : MonoBehaviour
 {
     public GameObject[] enemyPrefabs;
-    public GameObject[] powerupPrefabs;
+    public GameObject powerupPrefabs;
     public GameObject[] obstaclePrefabs;
 
     private float spawnRangeX = 10.0f;
     private float spawnPosZ = 10.0f;
 
-    private float powerupSpawnTime = 5.0f;
-    private float enemySpawnTime = 1.0f;
-    private float obstacleSpawnTime = 1.0f;
     private float startDelay = 1.0f;
+    private float spawnInterval = 1.5f;
     
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("SpawnRandomEnemy", startDelay, enemySpawnTime);
-        InvokeRepeating("SpawnRandomObstacle", startDelay, obstacleSpawnTime);
-        InvokeRepeating("SpawnPowerup", startDelay, powerupSpawnTime);
+        InvokeRepeating("SpawnRandomEnemy", startDelay, spawnInterval);
+        InvokeRepeating("SpawnRandomObstacle", startDelay, spawnInterval);
+        InvokeRepeating("SpawnPowerup", startDelay, spawnInterval);
     }
 
     // Update is called once per frame
