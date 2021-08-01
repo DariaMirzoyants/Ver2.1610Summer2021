@@ -9,11 +9,16 @@ public class PlayerController : MonoBehaviour
     private Rigidbody playerRb;
 
     private float zBound = 6;
-    
+    private AudioSource playerAudio;
+
+    public AudioClip crashSound;
+
     // Start is called before the first frame update
     void Start()
     {
         playerRb = GetComponent<Rigidbody>();
+
+        playerAudio = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -52,6 +57,8 @@ public class PlayerController : MonoBehaviour
         if(collision.gameObject.CompareTag("Enemy"))
         {
             Debug.Log("Player has collided with enemy");
+            gameOver = true;
+            playerAudio.PlayOneShot(crashSound, 1.0f);
         }
     }
 

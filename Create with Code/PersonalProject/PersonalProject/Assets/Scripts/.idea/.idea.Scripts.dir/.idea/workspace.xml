@@ -11,6 +11,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DetectCollisions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MovingDown.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -18,8 +20,10 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/MovingDown.cs" />
-      <option value="$PROJECT_DIR$/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Target.cs" />
       <option value="$PROJECT_DIR$/GameManager.cs" />
+      <option value="$PROJECT_DIR$/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/DetectCollisions.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vxodXwfPknIi5KR3SoyQyKpcWv" />
@@ -42,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627513198499</updated>
-      <workItem from="1627516998446" duration="1605000" />
+      <workItem from="1627516998446" duration="9753000" />
     </task>
     <servers />
   </component>
